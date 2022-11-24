@@ -8,5 +8,3 @@ You can contact me via:
 * **Telegram**: [t.me/deliorix](https://t.me/deliorix "t.me/deliorix")
 * **Steam**: [id/deliorix_](https://steamcommunity.com/profiles/76561199159080157 "id/deliorix_")
 * **Discord**: deliorix#4439
-
-Also visit my site: [deliorix.xyz](https://deliorix.xyz "deliorix.xyz")
