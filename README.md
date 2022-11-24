@@ -1,9 +1,8 @@
-![alt text][logo]
+![alt text][banner]
 
-[logo]: https://i.imgur.com/dsS0Fw7.png "logo"
+[banner]: https://i.imgur.com/dsS0Fw7.png "banner"
 
-## Contact me
-You can contact me via:
+## 💬 If you want to contact me, here's how:
 * **VK**: [vk.me/deliorix](https://vk.me/deliorix "vk.me/deliorix")
 * **Telegram**: [t.me/deliorix](https://t.me/deliorix "t.me/deliorix")
 * **Steam**: [id/deliorix_](https://steamcommunity.com/profiles/76561199159080157 "id/deliorix_")
