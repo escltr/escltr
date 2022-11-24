@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://i.imgur.com/VWuvFrt.jpg "logotype"
+[logo]: https://i.imgur.com/PADaArg.png "logotype"
 
 ## Contact me
 You can contact me via:
