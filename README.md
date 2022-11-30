@@ -1,6 +1,6 @@
 ![alt text][banner]
 
-[banner]: https://i.imgur.com/VWuvFrt.jpg "banner"
+[banner]: https://i.imgur.com/lzfxSBP.png "banner"
 
 ## About me:
 I'm Nick, 17 y.o and from Russia. I'm interested in gaming, game hacking, web-developing and graphics design.
