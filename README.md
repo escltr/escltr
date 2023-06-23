@@ -1,28 +1,28 @@
-# 👋 Привет!
+# 👋 Hi there!
 
-## Обо мне
+## About Me
 
-Я - программист с увлечением веб-разработкой и JavaScript. Мне нравится исследовать новые технологии и создавать интересные проекты. Мой основной фокус - JavaScript и его использование для работы с Document Object Model (DOM).
+I'm a web developer with a passion for JavaScript. I love exploring new technologies and creating interesting projects. My main focus is JavaScript and working with the Document Object Model (DOM).
 
-Более подробную информацию обо мне вы можете найти на моем [сайте](https://deliorix.cc).
+For more detailed information about me and my projects, you can visit my [website](https://deliorix.cc).
 
-## Навыки и технологии
+## Skills and Technologies
 
 - JavaScript
 - HTML
 - CSS
 - Vue.js
 - Git
-- Базы данных (MySQL, PostgreSQL, Oracle Database)
+- Databases (MySQL, PostgreSQL, Oracle Database)
 
-## Связь
+## Contact
 
-Вы можете связаться со мной по следующим каналам:
+You can reach out to me through the following channels:
 
-- Электронная почта: [contact@deliorix.cc](mailto:contact@deliorix.cc) 📧
+- Email: [contact@deliorix.cc](mailto:contact@deliorix.cc) 📧
 
-## Статистика
+## Stats
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=dlrxgit&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlrxgit&show_icons=true&theme=dark)
 
-Благодарю за посещение моего профиля! Если у вас есть вопросы или предложения о сотрудничестве, пожалуйста, свяжитесь со мной. Я буду рад обсудить любые идеи и проекты. 😊🚀
+Thanks for visiting my profile! If you have any questions or would like to collaborate, please feel free to reach out. I'm open to discussing ideas and projects. 😊🚀
