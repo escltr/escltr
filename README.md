@@ -4,7 +4,7 @@
 
 I'm a web developer with a passion for JavaScript. I love exploring new technologies and creating interesting projects. My main focus is JavaScript and working with the Document Object Model (DOM).
 
-For more detailed information about me and my projects, you can visit my [website](https://deliorix.cc).
+For more detailed information about me, you can visit my [website](https://deliorix.cc).
 
 ## Skills and Technologies
 
@@ -14,12 +14,6 @@ For more detailed information about me and my projects, you can visit my [websit
 - Vue.js
 - Git
 - Databases (MySQL, PostgreSQL, Oracle Database)
-
-## Contact
-
-You can reach out to me through the following channels:
-
-- Email: [contact@deliorix.cc](mailto:contact@deliorix.cc) 📧
 
 ## Stats
 
