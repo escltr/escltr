@@ -2,18 +2,18 @@
 
 ## About Me
 
-I'm a web developer with a passion for JavaScript. I love exploring new technologies and creating interesting projects. My main focus is JavaScript and working with the Document Object Model (DOM).
+I'm a junior web developer with a passion for JavaScript. I love exploring new technologies and creating interesting projects. My main focus is JavaScript and working with the Document Object Model (DOM).
 
 For more detailed information about me, you can visit my [website](https://deliorix.cc).
 
-## Skills and Technologies
+## Skills
 
 - JavaScript
 - HTML
 - CSS
 - Vue.js
 - Git
-- Databases (MySQL, PostgreSQL, Oracle Database)
+- Databases (MySQL, PostgreSQL)
 
 ## Stats
 
