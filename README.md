@@ -1,22 +1,14 @@
-# 👋 Hi there!
+# Hi there, I'm deliorix! 👋
 
-## About Me
+I'm a web developer and tech enthusiast passionate about building web applications and solving real-world problems through code.
 
-I'm a junior web developer with a passion for JavaScript. I love exploring new technologies and creating interesting projects. My main focus is JavaScript and working with the Document Object Model (DOM).
+## What I Do
 
-For more detailed information about me, you can visit my [website](https://deliorix.cc).
+- 🔭 I'm currently exploring the fascinating world of front-end and back-end development.
+- 🌱 I enjoy creating interactive web applications, responsive websites, and experimenting with innovative web development techniques.
+- 👯 I'm open to collaboration and love working with like-minded developers on exciting projects.
 
-## Skills
+## Reach Out
 
-- JavaScript
-- HTML
-- CSS
-- Vue.js
-- Git
-- Databases (MySQL, PostgreSQL)
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlrxgit&show_icons=true&theme=dark)
-
-Thanks for visiting my profile! If you have any questions or would like to collaborate, please feel free to reach out. I'm open to discussing ideas and projects. 😊🚀
+- 📫 If you'd like to get in touch, discuss potential collaborations, or simply have a conversation, feel free to reach out to me.
+- 📚 You can also check out my GitHub repositories to see some of the projects I've been working on.
