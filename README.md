@@ -11,4 +11,3 @@ i'm a web developer and tech enthusiast passionate about building web applicatio
 ## reach out
 
 - 📫 if you'd like to get in touch, discuss potential collaborations, or simply have a conversation, feel free to reach out to me.
-- 📚 you can also check out my GitHub repositories to see some of the projects I've been working on.
